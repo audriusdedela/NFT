@@ -320,20 +320,20 @@ table {
 
         .features {
             display:none;}
-
+            .showcase {margin-top: 50px}
         .menu {display: ;}
         .right{display: none;}
 
         .bottom {flex-wrap: nowrap;}
         
         .lefty {margin-bottom: 50px;}
-        .footer {display: block};}
+        .footer {display: block}
         /* .press-container {
             margin: 32px;
         } */
   } 
 
-}
+
 
 /* <<mobile>> */
 
